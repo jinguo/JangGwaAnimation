@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3c308a57af6f14495c31926ca0f502e952034824.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_f7c8f46567e9bdcb7fbb7b77dc9dc5d2b597cc5a.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_21dabfa6d11b001ec09260dec3af95d63b98f913.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_94d67d5ed59eaa265c528648feada191b56fce7b.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_15484f13a88e2618b2f6f05ce7aee8159be669ec.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/zkw/Desktop/JangGwaAnimation/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f512a4bf07f3667a313374f2d37375413ac71285.jar" />
+    </item>
+
+</items>
