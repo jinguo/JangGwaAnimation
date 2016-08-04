@@ -3,4 +3,4 @@
 
 ##Demo
 
-![image](https://github.com/JangGwa/JangGwaAnimation/blob/master/JangGwaAnimation.gif)
+![image](https://github.com/JangGwa/JangGwaAnimation/blob/master/animation.gif)
